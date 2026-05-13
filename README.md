@@ -1,22 +1,23 @@
 <h1 align="center">Hey there!</h1>
 
-###
-
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/payaldurga-paila-27bd121/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:pailapayaldurga@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://your-portfolio.vercel.app">
+  <a href="https://pailapayaldurga.wixstudio.com/my-site">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  <a href="https://discord.com/users/1392525354266001428">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
 
 ###
 
-<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) - Batch of 2023–2027. I love turning ideas into real, working projects. Always learning, always building.</p>
+<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) - Batch of 2023–2027. I love turning ideas into real, working projects.<br> Always learning, Always building.</p>
 
 ###
 
@@ -25,10 +26,12 @@
 ###
 
 <p align="left">
-- ✨ Passionate about building clean, responsive, and meaningful web experiences.<br>
-- 🔭 Currently building: <strong>SaaS_learn</strong> — a subscription-based learning platform with Vapi AI voice agents<br>
-- 🌐 Built projects spanning MERN, Three.js, React, Supabase, Stripe & AI integrations<br>
-- 🤝 Open to internships and collaboration on projects, hackathons & open source
+- B.Tech CSE @ Indian Institute of Information Technology Vadodara (IIITV) (2023–2027)<br>
+- passionate about building scalable full-stack applications<br>
+- Finalist @ Hack the Future 2025 (StarStream)<br>
+- Open to collaborating on Open Source, AI Projects & Hackathons<br>
+- enhancing accessibility through tech, and diving deep into NLP and gesture recognition.<br>
+- Reach me at: pailapayaldurga@gmail.com<br>
 </p>
 
 ###
