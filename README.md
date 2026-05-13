@@ -1,30 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">hey there!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://your-portfolio.vercel.app">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) — Batch of 2023–2027. I'm passionate about development and love turning ideas into real, working projects. Always learning, always building.</p>
 
 ###
 
-<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) Batch of 2023–2027. I'm passionate about development and love turning ideas into real, working projects. Always learning, always building.</p>
+<h2 align="left">About Me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+- ✨ Passionate about building clean, responsive, and meaningful web experiences.<br>
+- 🔭 Currently building: <strong>SaaS_learn</strong> — a subscription-based learning platform with Vapi AI voice agents<br>
+- 🌐 Built projects spanning MERN, Three.js, React, Supabase, Stripe & AI integrations<br>
+- 🤝 Open to internships and collaboration on projects, hackathons & open source
+</p>
 
 ###
 
-<p align="left">- ✨ Passionate about building clean, responsive, and meaningful web experiences.<br>- 🌱 Currently exploring Frontend & Backend Web Development<br>- 🤝 Open to internships and collaboration opportunities on projects, hackathons & open source</p>
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+| Project | Description | Links |
+|---|---|---|
+| **ExBlog** | Full-stack MERN blog platform with integrated AI content generator, secure admin dashboard, rich text editing, category management, image uploads & comment moderation | [GitHub](https://github.com/Achiever-P/ExBlog) |
+| **SaaS_learn** | SaaS app with user authentication, subscriptions & payments via Next.js, Supabase & Stripe — integrates Vapi AI voice agent for seamless interactive learning sessions | [GitHub](https://github.com/Achiever-P/SaaS_learn) |
+| **Softsell** | Responsive frontend software sales platform built with React & Tailwind CSS — features smooth GSAP animations, a modern UI & integrated chatbot for enhanced user interaction | [GitHub](https://github.com/Achiever-P/Softsell) |
+| **Rdimes** | Visually rich gaming website built with React & Tailwind CSS, featuring GSAP-powered animations, smooth interactions & a luxurious UI inspired by Zentry | [GitHub](https://github.com/Achiever-P/Rdimes) |
+| **SolarSystem** | Interactive 3D solar system simulation built with Three.js — features real-time orbiting planets, speed controls, theme toggling & smooth animations | [GitHub](https://github.com/Achiever-P/SolarSystem) |
+| **spaceshooter** | Pygame-based shooter game featuring dynamic enemy AI, smooth controls & engaging gameplay | [GitHub](https://github.com/Achiever-P/spaceshooter) |
 
 ###
 
@@ -96,27 +116,28 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achiever-P&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Achiever-P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Achiever-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Achiever-P&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" height="150" alt="trophy graph" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
