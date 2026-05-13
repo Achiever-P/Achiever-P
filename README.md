@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) — Batch of 2023–2027. I'm passionate about development and love turning ideas into real, working projects. Always learning, always building.</p>
+<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) - Batch of 2023–2027. I love turning ideas into real, working projects. Always learning, always building.</p>
 
 ###
 
