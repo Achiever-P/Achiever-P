@@ -36,111 +36,46 @@
 
 ###
 
-<h2 align="left">🚀 Featured Projects</h2>
-
-###
+## Featured Projects
 
 | Project | Description | Links |
-|---|---|---|
-| **ExBlog** | Full-stack MERN blog platform with integrated AI content generator, secure admin dashboard, rich text editing, category management, image uploads & comment moderation | [GitHub](https://github.com/Achiever-P/ExBlog) |
-| **SaaS_learn** | SaaS app with user authentication, subscriptions & payments via Next.js, Supabase & Stripe — integrates Vapi AI voice agent for seamless interactive learning sessions | [GitHub](https://github.com/Achiever-P/SaaS_learn) |
-| **Softsell** | Responsive frontend software sales platform built with React & Tailwind CSS — features smooth GSAP animations, a modern UI & integrated chatbot for enhanced user interaction | [GitHub](https://github.com/Achiever-P/Softsell) |
-| **Rdimes** | Visually rich gaming website built with React & Tailwind CSS, featuring GSAP-powered animations, smooth interactions & a luxurious UI inspired by Zentry | [GitHub](https://github.com/Achiever-P/Rdimes) |
-| **SolarSystem** | Interactive 3D solar system simulation built with Three.js — features real-time orbiting planets, speed controls, theme toggling & smooth animations | [GitHub](https://github.com/Achiever-P/SolarSystem) |
-| **spaceshooter** | Pygame-based shooter game featuring dynamic enemy AI, smooth controls & engaging gameplay | [GitHub](https://github.com/Achiever-P/spaceshooter) |
+| --- | --- | --- |
+| **[project-name-1]** | [Short description of what it does and what makes it cool] | [GitHub](https://github.com/your-username/project-1) · [Live](https://your-project-1.com) |
+| **[project-name-2]** | [Short description of what it does and what makes it cool] | [GitHub](https://github.com/your-username/project-2) · [Live](https://your-project-2.com) |
+| **[project-name-3]** | [Short description of what it does and what makes it cool] | [GitHub](https://github.com/your-username/project-3) |
+| **[project-name-4]** | [Short description of what it does and what makes it cool] | [GitHub](https://github.com/your-username/project-4) |
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Tech Stack
 
-###
+**Languages**
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+**Frameworks & Tools**
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
 
-###
+**Databases**
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 
-<h2 align="left">📊 GitHub Stats</h2>
+---
 
-###
+## Reach Me
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achiever-P&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Achiever-P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+- 📧 pailapayaldurga@gmail.com
+- 🔗 [linkedin.com/in/payaldurga-paila-27bd121](https://www.linkedin.com/in/payaldurga-paila-27bd121/)
+- 🌐 [pailapayaldurga.wixstudio.com/my-site](https://pailapayaldurga.wixstudio.com/my-site)
+- 💙 [Codeforces — achiever_27](https://codeforces.com/profile/achiever_27)
+- 🍴 [CodeChef — archiever_121](https://www.codechef.com/users/archiever_121)
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Achiever-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Achiever-P&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Achiever-P/Achiever-P/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
