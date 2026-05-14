@@ -1,4 +1,4 @@
-<h1 align="center">⋆.˚Hey there!˚.⋆</h1>
+<h1 align="center">⋆.˚ Hey there! ˚.⋆</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/payaldurga-paila-27bd121/">
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) - Batch of 2023–2027. I love turning ideas into real, working projects.<br> Always learning, Always building.</p>
+<p align="left">My name is Payaldurga Paila, a B.Tech student at Indian Institute of Information Technology, Vadodara (IIIT-V) - Batch of 2023–2027. I love turning ideas into real, working projects.<br> ★ Always learning, Always building. ★ </p>
 
 ###
 
