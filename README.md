@@ -40,6 +40,7 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **[Rdimes](https://rdimes.vercel.app)** | A visually rich gaming website with GSAP-powered animations, scroll-triggered interactions, bento grid layouts, and a luxurious UI inspired by Zentry, built with React and Tailwind CSS | [GitHub](https://github.com/Achiever-P/Rdimes) · [Live](https://rdimes.vercel.app) |
+|**[Scheduler](https://social-scheduler-indol.vercel.app)** | A full-stack AI social media scheduler that generates post copy and images via Gemini & Leonardo.ai, with automated multi-platform publishing across Twitter, LinkedIn, Facebook, and Instagram | [GitHub](https://github.com/Achiever-P/social-scheduler) · [Live](https://social-scheduler-indol.vercel.app) |
 | **[Yope](https://saa-s-learn.vercel.app)** | A full-featured LMS SaaS platform with AI voice tutors (Vapi), Stripe subscriptions, Clerk auth, and real-time Supabase backend, built with Next.js and TypeScript | [GitHub](https://github.com/Achiever-P/SaaS_learn) · [Live](https://saa-s-learn.vercel.app) |
 | **[ExBlog](https://ex-blog-five.vercel.app)** | A full-stack MERN blog platform with an AI content generator, admin dashboard, rich text editing via Quill.js, image uploads, and comment moderation | [GitHub](https://github.com/Achiever-P/ExBlog) · [Live](https://ex-blog-five.vercel.app) |
 
